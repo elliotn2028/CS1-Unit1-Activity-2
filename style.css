@@ -1,1 +1,45 @@
+#page-title {
+  font-size: 2.5rem;
+  text-align: center;
+  color: #1a365d;
+  font-weight: bold;
+}
 
+.line-name {
+  background-color: #2d3748;
+  color: #ffffff;
+  font-style: italic;
+  font-weight: 800;
+  padding: 12px 20px;
+  border-radius: 4px;
+  text-transform: uppercase;
+
+}
+
+.express {
+  background-color: #e53e3e;
+  font-style: italic;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+li {
+  padding: 12px 8px;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+img {
+  width: 80px;
+  height: auto;
+  border-radius: 8px;
+}
+
+section {
+  margin-bottom: 32px;
+}
+
+.featured-section {
+  border: 2px solid #3182ce;
+  border-radius: 8px;
+  padding: 16px;
+}
